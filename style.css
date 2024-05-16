@@ -140,6 +140,12 @@ li::marker {
     color: var(--DarkRaspberry);
 }
 
+.love {
+    margin-top: 30px;
+    text-align: center;
+    align-items: center;
+}
+
 
 @media (width <= 575px) {
     body {
